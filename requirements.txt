@@ -1,4 +1,5 @@
 python-multipart
 uvicorn
 streamlit
+scikit-learn
 # all the libraries you already used or installed
